@@ -3,7 +3,7 @@ inherit python3-distutils
 
 NAME="python3-unidecode"
 VERSION=0.04.17
-RELEASE=1
+RELEASE=2
 CATEGORY="Python"
 SUMMARY="Python3 Unicode transliteration module"
 DESCRIPTION="Unidecode takes Unicode data and tries to represent it in ASCII
